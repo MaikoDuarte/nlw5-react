@@ -45,7 +45,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-No projeto Feedback Widget você escolhe o tipo de feedback, tira uma printscreen da tela e adiciona um comentário.
+Uma plataforma construída para transmissão de podcast
 
 
 ## 🚀 Como executar
