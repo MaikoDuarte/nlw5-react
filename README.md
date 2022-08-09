@@ -55,10 +55,6 @@ Instale as dependências com yarn
 Inicie o servidor com yarn dev
 Agora você pode acessar localhost:3000 do seu navegador.
 
-## :iphone: Demo: Deploy
-
-A aplicação Web poderá ser acessada aqui: 
-
 
 ## :mailbox_with_no_mail: Contatos
 
